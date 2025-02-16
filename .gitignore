@@ -1,0 +1,6 @@
+step_motor_plc
+factoryIO/assembler
+factoryIO/from_A_to_B
+factoryIO/from_A_to_B_set_and_reset
+factoryIO/queue_of_items_counter
+factoryIO/water_tank_timer
