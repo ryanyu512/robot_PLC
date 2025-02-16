@@ -1,5 +1,5 @@
 
-**SUMMARY** 
+**Summary** 
 =============
 A 2D Robot Arm is utilised to pick the lid from a conveyor and place it on the base which is on another conveyor for assembly. Siemens Sim and TIA Portal are utilised to control the virtual automatic process. 
 
